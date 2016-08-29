@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <title>Bitacora</title>
-<link href="js/fancybox/jquery.fancybox-1.3.4.css" media="all" rel="stylesheet">
+<link href="http://fancybox.net/js/fancybox-1.3.4/jquery.fancybox-1.3.4.css" media="all" rel="stylesheet">
 <style type="text/css">
 .encabezado {
 	color: #FFF;
@@ -34,10 +34,10 @@ a:visited {
 	color: #F60;
 }
 </style>
-<script type="text/javascript" src="https://code.jquery.com/jquery-1.8.3.min.js"> </script>
-<script type="text/javascript" src="js/fancybox/jquery.fancybox-1.3.4.pack.js"> </script>
-<script type="text/javascript" src="js/fancybox/jquery.easing-1.3.pack.js"> </script>
-<script type="text/javascript" src="js/fancybox/jquery.mousewheel-3.0.4.pack.js"> </script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="http://fancybox.net/js/fancybox-1.3.4/jquery.fancybox-1.3.4.js"></script>
+<script type="text/javascript" src="http://fancybox.net/js/fancybox-1.3.4/jquery.easing-1.3.pack.js"></script>
+<script type="text/javascript" src="http://fancybox.net/js/fancybox-1.3.4/jquery.mousewheel-3.0.4.pack.js"></script>
 <script type="text/javascript">
 	$(document).ready(function(e) {
         $('a').click(function(e) {
